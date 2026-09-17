@@ -1,65 +1,55 @@
-# Java Logic Practice 🧠
+# Java Logic Practice 🧠☕
 
-Daily Java programming logic practice.
+A collection of Java programming logic problems that I solve consistently to improve my problem-solving skills and prepare for DSA and technical interviews.
 
-The goal is simple:
+## 🎯 Goal
 
-> Learn one new programming logic every day and build strong programming fundamentals before moving deeper into DSA.
+- Learn one new programming logic/problem regularly
+- Understand the logic instead of memorizing solutions
+- Improve Java fundamentals
+- Build strong problem-solving skills
+- Prepare for DSA and coding interviews
 
----
-
-## 📊 Progress
+## 📚 Progress
 
 ### 01 - Basics
-
 - [x] Decimal to Binary
-- [x] Odd / Even
+- [x] Odd or Even
 - [x] Factorial
-- [ ] Prime Number
-- [ ] Fibonacci
-- [ ] Reverse Number
-- [ ] Palindrome Number
-- [ ] Armstrong Number
-- [ ] Sum of Digits
-- [ ] GCD / LCM
 
 ### 02 - Strings
-
 - [x] Reverse String
-- [x] Palindrome String
+- [x] Palindrome
 - [x] Character Frequency
-- [ ] Remove Duplicate Characters
-- [ ] Count Vowels and Consonants
-- [ ] Anagram
-- [ ] First Non-Repeated Character
-- [ ] Count Words
 
-### 03 - Arrays
+### 03 - Numbers
+- [x] Prime Number
 
-- [ ] Find Maximum
-- [ ] Find Minimum
-- [ ] Find Second Largest
-- [ ] Reverse Array
-- [ ] Search Element
-- [ ] Count Duplicates
-- [ ] Remove Duplicates
-- [ ] Find Missing Number
+### 04 - Arrays
+- [ ] Array Basics
+- [ ] Find Maximum Element
+- [ ] Find Minimum Element
+- [ ] Sum of Array Elements
 
----
+## 🛠️ Technologies
 
-## 🎯 Learning Path
+- Java
+- Git
+- GitHub
+
+## 📈 Learning Path
 
 ```text
-Java Fundamentals
-       ↓
+Java Basics
+    ↓
 Programming Logic
-       ↓
-Arrays & Strings
-       ↓
-Data Structures
-       ↓
-Algorithms
-       ↓
+    ↓
+Strings & Numbers
+    ↓
+Arrays
+    ↓
+Data Structures & Algorithms
+    ↓
 Problem Solving
-       ↓
-DSA
+    ↓
+Technical Interviews
